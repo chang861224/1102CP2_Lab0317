@@ -1,0 +1,18 @@
+PPAP
+I have a pen
+I have an apple
+Ugh
+Apple pen
+
+I have a pen
+I have pineapple
+Ugh
+Pineapple pen
+
+Apple pen
+Pineapple pen
+
+Ugh
+Pen Pineapple Apple Pen
+
+Pen Pineapple Apple Pen
