@@ -1,6 +1,5 @@
-    part of your world
-
-
+  
+  PART OF YOUR WORLD	Alan Menken/Howard Ashman	
 
    Look at this stuff
 Isn't it neat?
