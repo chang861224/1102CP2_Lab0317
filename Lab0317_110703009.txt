@@ -1,5 +1,8 @@
 ABC song
 
+lyricist:me
+composer:me
+
 a b c d e f g
 h i j k l mnop
 q r s
